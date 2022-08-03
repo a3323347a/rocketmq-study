@@ -1,0 +1,6 @@
+rocketmq:
+  nameServer: 127.0.0.1:9876
+  consumer:
+    group: test_group
+  producer:
+    group: test_group
